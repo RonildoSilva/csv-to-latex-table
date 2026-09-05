@@ -29,3 +29,16 @@
 *.bcf
 *.fdb_latexmk
 *.fls
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.~lock*#
+# Python / Jupyter
+__pycache__/
+*.pyc
+.venv/
+venv/
